@@ -12,13 +12,11 @@ end
 
 
 def long_planeteer_calls(long_calls)
-  long_calls = ["bing", "bang", "boom"]
-  if long_calls.length >= 4
-    true
-else  
+  # long_calls = ["bing", "bang", "boom"]
+  # if long_calls.length >= 4
+    # true
+# else  
   
-  
-end
 end
 # {|element| element.length}
 
