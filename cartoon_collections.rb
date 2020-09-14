@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls(long_calls)
   long_calls = ["bing", "bang", "boom"]
-  long_calls.each {|element| element.length}
+  long_calls.collect {|element| element.length}
   
 end
 
