@@ -17,10 +17,10 @@ def long_planeteer_calls(long_calls)
     true
 else  
   
-  # {|element| element.length}
+  
 end
 end
-
+# {|element| element.length}
 
 
 
