@@ -23,7 +23,7 @@ end
 
 
 def find_the_cheese(cheese_array)
-  
+  cheese_array.find do |cheese|
   
   
   # the array below is here to help
