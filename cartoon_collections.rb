@@ -4,9 +4,10 @@ end
 
 
 
-def summon_captain_planet(calls_array)
-  newarray = []
-  puts newarray.split.map(&:capitalize).join(' !')
+def summon_captain_planet(planeteer_calls)
+  
+  
+  # puts newarray.split.map(&:capitalize).join(' !')
 
 end
 
