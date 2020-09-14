@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls(long_calls)
   long_calls = ["bing", "bang", "boom"]
-  long_calls.length == 4  
+  input_array.map {|element| element.length}
   
 end
 
