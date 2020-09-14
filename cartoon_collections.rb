@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(planeteer_calls)
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-  puts "collect planeteer_calls : #{planeteer_calls.collect {|x| x + "!" }}\n\n"
+  planeteer_calls.collect {|x| x + "!" }
   
   
   # puts newarray.split.map(&:capitalize).join(' !')
