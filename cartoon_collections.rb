@@ -11,7 +11,7 @@ end
 
 
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(array)
   # Your code here
 end
 
