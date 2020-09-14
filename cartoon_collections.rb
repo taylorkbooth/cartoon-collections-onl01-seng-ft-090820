@@ -5,7 +5,9 @@ end
 
 
 def summon_captain_planet(calls_array)
-  
+  newarray = []
+  puts newarray.split.map(&:capitalize).join(' !')
+end
 end
 
 
