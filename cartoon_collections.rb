@@ -12,13 +12,7 @@ def summon_captain_planet(call_array)
   planeteer_calls
 end
   
-  
-  
-  
-  
-  # planeteer_calls = ["earth", "wind", "fire"]
-  # planeteer_calls.collect {|x| x + "!" }
-end
+
 
 
 
